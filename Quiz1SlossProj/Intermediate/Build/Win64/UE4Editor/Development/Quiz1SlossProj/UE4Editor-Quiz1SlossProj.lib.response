@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Quiz1SlossProj.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Repos\GPRO320SlossRepo\Quiz1SlossProj\Intermediate\Build\Win64\Quiz1SlossProjEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Repos\GPRO320SlossRepo\Quiz1SlossProj\Intermediate\Build\Win64\UE4Editor\Development\Quiz1SlossProj\Quiz1SlossProj.cpp.obj"
+"C:\Repos\GPRO320SlossRepo\Quiz1SlossProj\Intermediate\Build\Win64\UE4Editor\Development\Quiz1SlossProj\Quiz1SlossProjGameModeBase.cpp.obj"
+"C:\Repos\GPRO320SlossRepo\Quiz1SlossProj\Intermediate\Build\Win64\UE4Editor\Development\Quiz1SlossProj\Quiz1SlossProj.init.gen.cpp.obj"
+"C:\Repos\GPRO320SlossRepo\Quiz1SlossProj\Intermediate\Build\Win64\UE4Editor\Development\Quiz1SlossProj\Quiz1SlossProjGameModeBase.gen.cpp.obj"
+"C:\Repos\GPRO320SlossRepo\Quiz1SlossProj\Intermediate\Build\Win64\UE4Editor\Development\Quiz1SlossProj\Default.rc2.res"
+/OUT:"C:\Repos\GPRO320SlossRepo\Quiz1SlossProj\Intermediate\Build\Win64\UE4Editor\Development\Quiz1SlossProj\UE4Editor-Quiz1SlossProj.lib"

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Quiz1SlossProj",
+			"Path": "C:\\Repos\\GPRO320SlossRepo\\Quiz1SlossProj\\Source\\Quiz1SlossProj.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Quiz1SlossProjEditor",
+			"Path": "C:\\Repos\\GPRO320SlossRepo\\Quiz1SlossProj\\Source\\Quiz1SlossProjEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,3 @@
+C:\Repos\GPRO320SlossRepo\Quiz1SlossProj\Intermediate\Build\Win64\UE4Editor\Development\Quiz1SlossProj\Definitions.Quiz1SlossProj.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

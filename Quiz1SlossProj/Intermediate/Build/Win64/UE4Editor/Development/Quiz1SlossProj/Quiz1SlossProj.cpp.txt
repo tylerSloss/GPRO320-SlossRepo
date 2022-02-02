@@ -1,0 +1,2 @@
+C:\Repos\GPRO320SlossRepo\Quiz1SlossProj\Intermediate\Build\Win64\UE4Editor\Development\Quiz1SlossProj\Definitions.Quiz1SlossProj.h
+C:\Repos\GPRO320SlossRepo\Quiz1SlossProj\Source\Quiz1SlossProj\Quiz1SlossProj.h
